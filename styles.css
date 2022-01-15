@@ -1,0 +1,12 @@
+canvas{
+    border: 5px solid red;
+    border-radius: 5px 5px 5px grey;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: silver;
+    bottom: 0;
+    width: 100%;
+    background-color: snow;
+}
